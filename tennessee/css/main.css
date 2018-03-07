@@ -1,0 +1,25 @@
+/*
+@-webkit-keyframes blink {
+    0%   { background:red; }
+    50%  { background:green;}
+    100% { background:red; }
+}
+@-moz-keyframes blink {
+    0%   { background:red; }
+    50%  { background:green;}
+    100% { background:red; }
+}
+@-ms-keyframes blink {
+    0%   { background:red; }
+    50%  { background:green;}
+    100% { background:red; }
+}
+body {
+    -webkit-animation: blink 5s infinite;
+    -moz-animation: blink 5s infinite;
+    -ms-animation: blink 5s infinite;
+}
+*/
+h1 {
+    font-size: 50px;
+}
